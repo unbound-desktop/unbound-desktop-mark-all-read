@@ -1,0 +1,12 @@
+{
+   "name": "Mark All Read",
+   "authors": [
+      {
+         "name": "eternal",
+         "id": "263689920210534400"
+      }
+   ],
+   "description": "Marks every server channel including DMs as read through a command.",
+   "version": "1.0.0",
+   "id": "eternal.mark-all-read"
+}
